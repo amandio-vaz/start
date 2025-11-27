@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Amândio Vaz
+# Olá, eu sou Amândio Vaz
 
 <div align="center">
   
@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um **Engenheiro de Infraestrutura e Observabilidade** especializado em transformar operações de TI através da integração de **Inteligência Artificial, Automação e Observabilidade em larga escalal**. Atuo na [GPS IT](https://gpsit.com.br), onde lidero iniciativas técnicas que conectam o melhor da engenharia de software moderna com a gestão de infraestrutura crítica.
+Sou um **Engenheiro de Infraestrutura e Observabilidade** especializado em transformar operações de TI através da integração de **Inteligência Artificial, Automação e Observabilidade em larga escalal**. Atuo na [GPS IT](https://gpsit.com.br), onde tomo iniciativas técnicas que conectam o melhor da engenharia de software moderna com a gestão de infraestrutura crítica.
 
 Minha missão é construir stacks de sistemas inteligentes, resilientes, seguros e auto-gerenciáveis que elevam a experiência operacional e reduzem drasticamente o tempo de resposta a incidentes. Acredito na convergência entre **AIOps**, **DevOps** e **SecOps** como o futuro da engenharia de confiabilidade e que já somos totalmente ineficientes como simples analistas, ainda lutando para não acreditar que esse trabalho se tornará inútil em curto prazo.
 
